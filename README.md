@@ -59,3 +59,23 @@
 </div>
 
 ###
+
+<h2 align="left">🦖 Dino Game</h2>
+
+<p align="left">
+  A mini animated Dino Game inspired by Google Chrome offline game.
+</p>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/AnderMendoza/dino-game/master/dino.svg"
+    alt="Dino Game"
+    width="700"
+  />
+</div>
+
+<p align="center">
+  <i>Running endlessly on your GitHub profile</i>
+</p>
+
+###
