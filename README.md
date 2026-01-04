@@ -60,22 +60,17 @@
 
 ###
 
-<h2 align="left">🦖 Dino Game</h2>
+<h2 align="left">🎮 Mini Game</h2>
 
 <p align="left">
-  A mini animated Dino Game inspired by Google Chrome offline game.
+  Snake Game animated using my GitHub contribution graph.
 </p>
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/AnderMendoza/dino-game/master/dino.svg"
-    alt="Dino Game"
-    width="700"
+  <img 
+    src="https://raw.githubusercontent.com/lordzefan/lordzefan/output/github-contribution-grid-snake.svg"
+    alt="Snake Game"
   />
 </div>
-
-<p align="center">
-  <i>Running endlessly on your GitHub profile</i>
-</p>
 
 ###
