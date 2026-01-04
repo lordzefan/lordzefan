@@ -39,18 +39,7 @@
 </div>
 
 ###
-<h2 align="left">🎮 Mini Game</h2>
 
-<p align="left">
-  Snake Game animated using my GitHub contribution graph.
-</p>
-
-<div align="center">
-  <img
-   src="https://raw.githubusercontent.com/lordzefan/lordzefan/output/github-contribution-grid-snake.svg"
-  alt="Snake Game"
-/>
-</div>
 
 ###
 
