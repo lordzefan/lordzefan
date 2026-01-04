@@ -40,6 +40,14 @@
 
 ###
 
+<h2 align="center">🌊 Contribution Wave Runner</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/lordzefan/wave-runner-contribution/main/output.svg"
+    width="100%"
+  />
+</p>
 
 ###
 
