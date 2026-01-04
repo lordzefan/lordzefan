@@ -46,6 +46,21 @@
 
 ###
 
+<h2 align="left">🎮 Mini Game</h2>
+
+<p align="left">
+  Snake Game animated using my GitHub contribution graph.
+</p>
+
+<div align="center">
+  <img
+   src="https://raw.githubusercontent.com/lordzefan/lordzefan/output/github-contribution-grid-snake.svg"
+  alt="Snake Game"
+/>
+</div>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/zefanya-wicaksono-rihindia-b7a0b5202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -56,21 +71,6 @@
   <a href="081703176746" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-</div>
-
-###
-
-<h2 align="left">🎮 Mini Game</h2>
-
-<p align="left">
-  Snake Game animated using my GitHub contribution graph.
-</p>
-
-<div align="center">
-  <img
-  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  alt="Snake Game Animation"
-/>
 </div>
 
 ###
