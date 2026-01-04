@@ -67,10 +67,10 @@
 </p>
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/lordzefan/lordzefan/output/github-contribution-grid-snake.svg"
-    alt="Snake Game"
-  />
+  <img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="Snake Game Animation"
+/>
 </div>
 
 ###
