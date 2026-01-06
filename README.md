@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="center">🌊 Contribution Wave Runner</h2>
+<h2 align="center">🎵 Music Wave</h2>
 
 <p align="center">
   <img
@@ -48,6 +48,7 @@
     width="100%"
   />
 </p>
+
 
 ###
 
