@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://play.unity.com/en/user/f0de4c6d-e93c-431d-a428-6d63020daf4e" target="_blank">
-    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="52" height="52" alt="game logo"  />
+    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="62" height="62" alt="game logo"  />
   </a>
 </div>
 
