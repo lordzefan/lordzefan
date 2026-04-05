@@ -68,7 +68,7 @@
   </a>
 
   <a href="https://play.unity.com/en/user/f0de4c6d-e93c-431d-a428-6d63020daf4e" target="_blank">
-    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="105" height="105" style="vertical-align: middle;" />
+    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="52" height="52" style="vertical-align: middle;" />
   </a>
 </div>
 
