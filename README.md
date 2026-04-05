@@ -59,14 +59,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/zefanya-wicaksono-rihindia-b7a0b5202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/zefanya-wicaksono-rihindia-b7a0b5202" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" style="vertical-align: middle;" />
   </a>
-  <a href="https://accounts.google.com/SignOutOptions?hl=id&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
+  <a href="https://mail.google.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" style="vertical-align: middle;" />
   </a>
+
   <a href="https://play.unity.com/en/user/f0de4c6d-e93c-431d-a428-6d63020daf4e" target="_blank">
-    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" padding-top="10" width="95" height="95" alt="game logo"  />
+    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="105" height="105" style="vertical-align: middle;" />
   </a>
 </div>
 
