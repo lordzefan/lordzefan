@@ -66,10 +66,15 @@
   <a href="https://mail.google.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" style="vertical-align: middle;" />
   </a>
-
-  <a href="https://play.unity.com/en/user/f0de4c6d-e93c-431d-a428-6d63020daf4e" target="_blank">
-    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="52" height="52" style="vertical-align: middle;" />
-  </a>
 </div>
 
 ###
+<h2 align="left">Portofolio</h2>
+
+###
+
+<div align="center">
+ <a href="https://play.unity.com/en/user/f0de4c6d-e93c-431d-a428-6d63020daf4e" target="_blank">
+    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="120" height="120" style="vertical-align: middle;" />
+  </a>
+</div>
