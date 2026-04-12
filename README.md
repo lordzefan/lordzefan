@@ -85,4 +85,7 @@
  <a href="https://play.unity.com/en/user/f0de4c6d-e93c-431d-a428-6d63020daf4e" target="_blank">
     <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="120" height="120" style="vertical-align: middle;" />
   </a>
+   <a href="https://leanst.itch.io/project-radiant" target="_blank">
+    <img src="https://www.svgrepo.com/show/452232/itch-io.svg" width="120" height="120" style="vertical-align: middle;" />
+  </a>
 </div>
