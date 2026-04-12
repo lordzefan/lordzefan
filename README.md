@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I can use </h2>
 
 ###
 
@@ -68,7 +68,7 @@
   </a>
   
 <a href="https://www.instagram.com/zefanrihindia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" style="vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" style="vertical-align: middle;" />
   </a>
 </div>
 
