@@ -62,30 +62,28 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/zefanya-wicaksono-rihindia-b7a0b5202" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" style="vertical-align: middle;" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/zefanya-wicaksono-rihindia-b7a0b5202">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" >
   </a>
-
-  <a href="https://mail.google.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" style="vertical-align: middle;" />
+  <a href="https://mail.google.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" >
   </a>
-  
-<a href="https://www.instagram.com/zefanrihindia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" style="vertical-align: middle;" />
+  <a href="https://www.instagram.com/zefanrihindia/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" >
   </a>
-</div>
+</p>
 
 ###
 <h2 align="left">Portofolio</h2>
 
 ###
 
-<div align="center">
- <a href="https://play.unity.com/en/user/f0de4c6d-e93c-431d-a428-6d63020daf4e" target="_blank">
-    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="120" height="120" style="vertical-align: middle;" />
+<p align="center">
+  <a href="https://play.unity.com/en/user/f0de4c6d-e93c-431d-a428-6d63020daf4e">
+    <img src="https://github.com/lordzefan/lordzefan/blob/main/logo/logo-game.png" width="120"/>
   </a>
-   <a href="https://leanst.itch.io/project-radiant" target="_blank">
-    <img src="https://www.svgrepo.com/show/452232/itch-io.svg" width="120" height="120" style="vertical-align: middle;" />
+  <a href="https://leanst.itch.io/project-radiant">
+    <img src="https://www.svgrepo.com/show/452232/itch-io.svg" width="120"/>
   </a>
-</div>
+</p>
