@@ -63,21 +63,15 @@
 ###
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/zefanya-wicaksono-rihindia-b7a0b5202"
-    target="_blank" 
-  rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/zefanya-wicaksono-rihindia-b7a0b5202" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://mail.google.com"
-    target="_blank" 
-  rel="noopener noreferrer">
+  <a href="https://mail.google.com" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/zefanrihindia/"
-    target="_blank" 
-  rel="noopener noreferrer">
+  <a href="https://www.instagram.com/zefanrihindia/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40">
   </a>
 </p>
